@@ -2,9 +2,9 @@
 
 ## Theme details
 
-- [PaperColor](https://github.com/NLKNguyen/papercolor-theme)
-- [Nord](https://www.nordtheme.com/)
 - [Gruvbox](https://github.com/gruvbox-community)
+- [Nord](https://www.nordtheme.com/)
+- [PaperColor](https://github.com/NLKNguyen/papercolor-theme)
 
 ## Set theme for the Chrome OS terminal
 

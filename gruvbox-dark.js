@@ -1,4 +1,5 @@
 // https://github.com/gruvbox-community
+/* eslint-disable */
 term_.prefs_.set("color-palette-overrides", [
   "#282828",
   "#cc241d",

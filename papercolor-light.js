@@ -1,5 +1,6 @@
 // https://github.com/arcticicestudio/nord-vim/issues/48
 // https://github.com/arcticicestudio/nord-xresources
+/* eslint-disable */
 term_.prefs_.set("color-palette-overrides", [
   "#eeeeee",
   "#af0000",

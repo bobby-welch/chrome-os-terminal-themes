@@ -2,6 +2,7 @@
 
 ## Theme details
 
+- [Dracula](https://github.com/dracula/dracula-theme)
 - [Gruvbox](https://github.com/gruvbox-community)
 - [Nord](https://www.nordtheme.com/)
 - [PaperColor](https://github.com/NLKNguyen/papercolor-theme)

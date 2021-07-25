@@ -6,6 +6,7 @@
 - [Gruvbox](https://github.com/gruvbox-community)
 - [Nord](https://www.nordtheme.com/)
 - [PaperColor](https://github.com/NLKNguyen/papercolor-theme)
+- [Solarized Light](https://github.com/lifepillar/vim-solarized8)
 
 ## Set theme for the Chrome OS terminal
 

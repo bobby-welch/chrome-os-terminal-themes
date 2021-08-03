@@ -6,7 +6,6 @@
 - [Gruvbox](https://github.com/gruvbox-community)
 - [Nord](https://www.nordtheme.com/)
 - [PaperColor](https://github.com/NLKNguyen/papercolor-theme)
-<<<<<<< HEAD
 - [Solarized Light](https://github.com/lifepillar/vim-solarized8)
 - [TokyoNight](https://github.com/ghifarit53/tokyonight-vim)
 

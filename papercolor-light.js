@@ -19,6 +19,6 @@ term_.prefs_.set("color-palette-overrides", [
   "#005faf",
   "#005f87",
 ]);
-term_.prefs_.set("foreground-color", "d0d0d0");
-term_.prefs_.set("background-color", "eeeeee");
+term_.prefs_.set("foreground-color", "#d0d0d0");
+term_.prefs_.set("background-color", "#eeeeee");
 term_.prefs_.set("cursor-color", "rgba(188, 188, 188, 0.5)");

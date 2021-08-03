@@ -8,9 +8,7 @@
 - [PaperColor](https://github.com/NLKNguyen/papercolor-theme)
 <<<<<<< HEAD
 - [Solarized Light](https://github.com/lifepillar/vim-solarized8)
-=======
 - [TokyoNight](https://github.com/ghifarit53/tokyonight-vim)
->>>>>>> 4410ede (Add TokyoNight theme)
 
 ## Set theme for the Chrome OS terminal
 
